@@ -1,2 +1,2 @@
 # devop-s
-devops tranning 
+devops tranning class
